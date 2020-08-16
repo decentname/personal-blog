@@ -1,22 +1,31 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: I tried Pomodoro for 30 days
+date: "2020-08-16T10:56:03.284Z"
+description: "what the heck is a Pomodoro?"
 ---
 
-This is my first post on my new fake blog! How exciting!
+So you're probably wondering, what the heck is a Pomodoro technique? 
 
-I'm sure I'll write a lot more interesting things in the future.
+Well, it’s a time management technique where you split your day into brief intervals (usually 25 minutes), separated by quick breaks. Each​ interval​ is what we call a Pomodoro. Simple yet powerful, all you need to be able to follow this technique is a timer.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+First, a little background: I heard about Pomodoro from a colleague who would swear by it. My first attempt was while we were still working out of offices (yes, that pre-pandemic thing), and it was an epic failure. I started an interval and within one minute, someone walked over to discuss something important. It was hard for me to comply with the technique in my work environment. Sometimes, I would just skip the breaks and end up working for hours on the same thing.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+Then, entered the lockdown followed by work-from-home. I thought of experimenting with the technique once again, and here’s what happened:
 
-![Chinese Salty Egg](./salty_egg.jpg)
+- _Bye Bye Procrastination_
+
+The short interval psyched me. It left me with no excuses to procrastinate, considering I had limited time to finish a task.
+
+- _Bye Bye Eye Strain_
+
+Being a software developer, my eyes spend 8 hours with my laptop followed by 4 hours with my mobile. My doctor urged me to take frequent pauses while working just to calm my eyes. Are you happy, doctor? Because my eyes are.
+
+- _Bye Bye Guilt Trips_
+
+Yes, no more feeling guilty about taking breaks. I could dance, dream, or even kill mosquitoes - I earned those breaks and nothing could take them away from me.
+
+- _Say Hello to Productivity_
+
+I could organise my tasks in a stronger manner and still focus on each task for prolonged periods. I could accomplish more jobs even though I was taking more breaks.
+
+To conclude, I don’t know if this is going to work for me once I am back in office. Perhaps, it shines only if you have a contained environment like home. I will continue with Pomodoro technique as long as I am working from home. For those who dislike the 25 minute window, it’s not mandatory to stick to a fixed interval. I experiment with 25 to 45 minute intervals depending on my tasks. Go with the flow!
